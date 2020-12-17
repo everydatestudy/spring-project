@@ -10,6 +10,7 @@ import com.hmy.test.service.AspectService;
 import com.hmy.test.service.TestBeanDefinitionRegistryPostProcessors;
 
 //https://www.shangyang.me/2017/04/05/spring-core-container-sourcecode-analysis-annotation-autowired/
+//aaa
 @EnableAspectJAutoProxy
 @ComponentScan("com.hmy")
 public class TestHmy {
