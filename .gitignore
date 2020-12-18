@@ -18,9 +18,6 @@ pom.xml
 activemq-data/
 
 classes/
-buildSrc/build
-/spring-*/build
-/src/asciidoc/build
 # Eclipse artifacts, including WTP generated manifests
 .classpath
 .project
